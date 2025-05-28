@@ -22,3 +22,17 @@ The primary source of the data is from kaggle, it came as a CSV file, it was sem
   - query
 - Power BI
 - MS Power Point
+
+### DATA CLEANING AND PREPARATION
+
+1. DATA LOADING POWER QUERY
+2. HANDLING MISSING VARIABLE
+3. DATA CLEANING AND FORMATTING
+
+### EXPLORATORY DATA ANALYSIS
+
+This involve exploring the data to get suitable answers
+
+~~~ SQL
+SELECT A,B,C
+FROM EMPLOYEE = 17
