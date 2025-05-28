@@ -12,7 +12,7 @@ Data Analysis project aims to generate insight into sales performance of the E-c
 The primary source of the data is from kaggle, it came as a CSV file, it was semi structured.
 
 ### TOOLS USED:
-- MS Excel [DOWNLOAD_HERE](Https:msfiles,.com)
+- MS Excel [DOWNLOAD_HERE](Https:MSOffice.com)
   - Data Collection
   - vlook up
   - pivot tables for Data cleaning
