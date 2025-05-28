@@ -36,3 +36,10 @@ This involve exploring the data to get suitable answers
 ~~~ SQL
 SELECT A,B,C
 FROM EMPLOYEE = 17
+
+~~~
+### ANALYSIS
+
+
+
+
